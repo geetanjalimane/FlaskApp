@@ -1,0 +1,36 @@
+.linkH
+{ 
+    position: absolute;
+    right:150px;
+     display: block;
+    background: #4E9CAF;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold
+  
+  }
+  .article {
+    padding: 100px 0;
+    text-align: center;
+}
+
+
+.linkS
+{ 
+    position: absolute;
+  
+    right:50px;
+    display: block;
+    background: #4E9CAF;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold
+  
+    
+  
+  }
+
